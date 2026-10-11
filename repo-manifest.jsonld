@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-trio/pytest-trio/commit/f0168502bc3340f22b8b80ed388efa1a26883aa8",
       "git:hexsha": "f0168502bc3340f22b8b80ed388efa1a26883aa8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T01:14:36.300808+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/pytest-trio/commit/53bfe12ae0d7ff68f8a9a5639fb7f5375b579d9b",
