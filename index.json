@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "pytest-trio",
+  "versions": [
+    {
+      "commit": "f0168502bc3340f22b8b80ed388efa1a26883aa8",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:14:36.301278+00:00"
+    }
+  ]
+}
